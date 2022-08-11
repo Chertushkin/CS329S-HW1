@@ -1,6 +1,5 @@
 # CS329S-HW1
 First Homework
-Due date is: 20/02/2022 23:59 UTC
 
 # Instructions
 To prepare for this assignment you need to read first 6 Lecture Notes and Lecture Slides from CS329S: https://stanford-cs329s.github.io/syllabus.html
